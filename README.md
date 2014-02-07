@@ -1,0 +1,4 @@
+BCOVSpecs
+=========
+
+Brightcove-hosted podspecs
