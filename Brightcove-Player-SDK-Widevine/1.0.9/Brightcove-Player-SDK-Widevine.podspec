@@ -14,5 +14,4 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency 'Brightcove-Player-SDK', '~> 4.2'
-  s.dependency 'Widevine-iOS', '6.0.0.12578'
 end
